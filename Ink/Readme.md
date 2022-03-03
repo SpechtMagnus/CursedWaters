@@ -34,6 +34,3 @@ Save this in "Cursed Waters/Ink/Story." This will create a folder for the web as
 3. To make available for Unity, "Export to JSON" (same image above).
 
 Save this in "Cursed Waters/Ink/Story." This will create a JSON file that the developers can use. 
-
-
-
